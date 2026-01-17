@@ -1,1 +1,1 @@
-# Prediction-of-Price-of-Refurbished-Phones-Tablets-for-Recell-Market
+# Refurbished Device Price Prediction
