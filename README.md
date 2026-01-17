@@ -1,1 +1,1 @@
-# python_linear_regression
+# Prediction-of-Price-of-Refurbished-Phones-Tablets-for-Recell-Market
